@@ -1,5 +1,5 @@
 ---
-description: This is my personal wiki.
+description: 'This is my personal wiki, using gitbook.com'
 ---
 
 # Introduction
