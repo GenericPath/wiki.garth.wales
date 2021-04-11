@@ -60,7 +60,7 @@ description: Collection of research for 'Face detection using reinforcement lear
       <td style="text-align:left">
         <p><b>Deep Sheep: kinship assignment in livestock from facial images</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <p>L. Szymanski</p>
         <p>&lt;b&gt;&lt;/b&gt;</p>
         <p><a href="https://ieeexplore.ieee.org/document/9290558">https://ieeexplore.ieee.org/document/9290558</a>
@@ -73,7 +73,7 @@ description: Collection of research for 'Face detection using reinforcement lear
       <td style="text-align:left">
         <p><b>An Introduction to Deep</b>  <b>Reinforcement Learning</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <p>V. Fran&#xE7;ois-Lavet</p>
         <p></p>
         <p><a href="https://arxiv.org/abs/1811.12560">https://arxiv.org/abs/1811.12560</a>
@@ -90,7 +90,7 @@ description: Collection of research for 'Face detection using reinforcement lear
       <td style="text-align:left">
         <p><b>Human-level control through deep reinforcement learning</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <p>V. Mnih</p>
         <p></p>
         <p><a href="https://www.nature.com/articles/nature14236">https://www.nature.com/articles/nature14236</a>
@@ -178,7 +178,7 @@ description: Collection of research for 'Face detection using reinforcement lear
       <td style="text-align:left">
         <p><b>DEEP REINFORCEMENT LEARNING</b>
         </p>
-        <p>&lt;b&gt;&lt;/b&gt;</p>
+        <p></p>
         <p>Y. Li</p>
         <p></p>
         <p><a href="https://arxiv.org/abs/1810.06339">https://arxiv.org/abs/1810.06339</a>
