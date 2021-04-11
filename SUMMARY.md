@@ -15,3 +15,11 @@
 * [Dendron](sss/dendron.md)
 * [Visual Studio Code](sss/visual-studio-code.md)
 
+## Machine Learning
+
+* [Markov decision process](machine-learning/markov-decision-process.md)
+* [Reinforcement learning](machine-learning/reinforcement-learning.md)
+* [Deep Q Network](machine-learning/deep-q-network.md)
+* [Object Detection](machine-learning/object-detection.md)
+* [Face detection](machine-learning/face-detection.md)
+
