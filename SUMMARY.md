@@ -6,7 +6,7 @@
 
 * [400 Project Research](uni/400-project-research.md)
 
-## shortcuts et cetera
+## shortcuts / syntax / setup <a id="sss"></a>
 
-* [Markdown](shortcuts-et-cetera/markdown.md)
+* [Markdown Syntax](sss/markdown.md)
 
