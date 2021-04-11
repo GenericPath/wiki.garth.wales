@@ -16,7 +16,7 @@ description: Collection of research for 'Face detection using reinforcement lear
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Active Object Localization using Reinforcement
+        <p><b>Active Object Localization using Reinforcement</b>
           <br />
           <br />J. C. Caicedo.</p>
         <p>
@@ -29,7 +29,8 @@ description: Collection of research for 'Face detection using reinforcement lear
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>You Only Look Once : Unified, Real-Time Object Detection</p>
+        <p><b>You Only Look Once : Unified, Real-Time Object Detection</b>
+        </p>
         <p></p>
         <p>J. Redmon
           <br />
