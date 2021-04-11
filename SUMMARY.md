@@ -13,4 +13,5 @@
 * [Markdown Syntax](sss/markdown.md)
 * [Git](sss/git.md)
 * [Dendron](sss/dendron.md)
+* [Visual Studio Code](sss/visual-studio-code.md)
 
