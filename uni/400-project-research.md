@@ -4,6 +4,8 @@ description: Collection of research for 'Face detection using reinforcement lear
 
 # 400 Project Research
 
+### Research papers
+
 <table>
   <thead>
     <tr>
@@ -14,7 +16,9 @@ description: Collection of research for 'Face detection using reinforcement lear
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>Active Object Localization using Reinforcement</p>
+        <p>Active Object Localization using Reinforcement
+          <br />
+          <br />J. C. Caicedo.</p>
         <p>
           <br /><a href="https://ieeexplore.ieee.org/document/7410643">https://ieeexplore.ieee.org/document/7410643</a>
         </p>
@@ -24,11 +28,31 @@ description: Collection of research for 'Face detection using reinforcement lear
         policy&apos; based on DeepQNetwork.</td>
     </tr>
     <tr>
+      <td style="text-align:left">
+        <p>You Only Look Once : Unified, Real-Time Object Detection</p>
+        <p></p>
+        <p>J. Redmon
+          <br />
+          <br /><a href="https://ieeexplore.ieee.org/document/7780460">https://ieeexplore.ieee.org/document/7780460</a>
+        </p>
+        <p></p>
+      </td>
+      <td style="text-align:left">State of the art object detection neural network. Regression to take input
+        image &#x2192; regression of coordinates. Only needs to take the input
+        in once, and confidence levels to determine which bounding boxes are good
+        ones.</td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
 
+### 
 
+### Websites and notes
+
+* [https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/](https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/) Explanation of how YOLO is different to SSD 
+* Need to make it work better as a single shot sorta problem... but still use reinforcement learning to see if it can improve the detection rates? not sure.
 
