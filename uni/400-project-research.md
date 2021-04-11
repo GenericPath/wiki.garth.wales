@@ -4,6 +4,11 @@ description: Collection of research for 'Face detection using reinforcement lear
 
 # 400 Project Research
 
+## Todo
+
+* [ ] Add which dataset each paper uses
+* [ ] Add more description of important topics covered by some papers \(i.e. topics to then cite\)
+
 ## Research papers
 
 <table>
@@ -265,6 +270,16 @@ description: Collection of research for 'Face detection using reinforcement lear
     </tr>
   </tbody>
 </table>
+
+## Datasets
+
+| Name | Link |
+| :--- | :--- |
+| Pascal VOC 2007/2012 | [http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| ImageNet |  |
+| CAS-PEAL Face Database |  |
+| WiderFACE |  |
+| LFW \(Labelled Faces in the Wild\) | [http://vis-www.cs.umass.edu/lfw/](http://vis-www.cs.umass.edu/lfw/) |
 
 ## Websites and notes
 
