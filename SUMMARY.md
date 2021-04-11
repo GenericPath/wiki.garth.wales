@@ -9,4 +9,5 @@
 ## shortcuts / syntax / setup <a id="sss"></a>
 
 * [Markdown Syntax](sss/markdown.md)
+* [Dendron](sss/dendron.md)
 
