@@ -9,6 +9,8 @@
 
 ## shortcuts / syntax / setup <a id="sss"></a>
 
+* [Python](sss/python.md)
 * [Markdown Syntax](sss/markdown.md)
+* [Git](sss/git.md)
 * [Dendron](sss/dendron.md)
 
