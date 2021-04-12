@@ -20,3 +20,8 @@ Stable baselines still has the best implementation of everything, but looks hard
 **11/04 - Sunday**  
 Switch to gitbook, summarising papers more.
 
+### **Week 7**
+
+**12/04 - Monday**  
+Started implementing keras-rl, gave up on using stable-baselines. Stable-baselines just lacks the easy interoperability with tensorflow how I wanted it to... or I don't understant how gym works :\)
+

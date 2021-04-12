@@ -285,5 +285,6 @@ description: Collection of research for 'Face detection using reinforcement lear
 
 * [https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/](https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/) Explanation of YOLO vs SSD 
 * Need to make it work better as a single shot sorta problem... but still use reinforcement learning to see if it can improve the detection rates? 
-* Future work: Use reinforcement learning to learn how the convolution step moves? Is it feasib
+* Future work: Use reinforcement learning to learn how the convolution step moves? Is it feasible
+* A good example of how to use tensorflow keras with keras-rl [https://soygema.github.io/starcraftII\_machine\_learning/\#5](https://soygema.github.io/starcraftII_machine_learning/#5)
 
