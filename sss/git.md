@@ -1,5 +1,5 @@
 ---
-description: How to Git gud.
+description: How to Git gud
 ---
 
 # Git

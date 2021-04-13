@@ -1,5 +1,5 @@
 ---
-description: To be completed.
+description: To be completed
 ---
 
 # Activation Functions

@@ -1,5 +1,5 @@
 ---
-description: The editor of choice.
+description: The editor of choice
 ---
 
 # Visual Studio Code

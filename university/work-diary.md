@@ -25,3 +25,6 @@ Switch to gitbook, summarising papers more.
 **12/04 - Monday**  
 Started implementing keras-rl, gave up on using stable-baselines. Stable-baselines just lacks the easy interoperability with tensorflow how I wanted it to... or I don't understant how gym works :\)
 
+**13/04 - Tuesday**  
+Realised Keras-RL is dead, therefore should replace with something with complete documentation. [Most RL frameworks ](../ml/rl-frameworks.md)act similarily as they use [Gym ](../ml/gym.md)style environments. _Also working on other ai_ _assignment._
+

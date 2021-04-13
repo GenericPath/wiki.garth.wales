@@ -1,5 +1,5 @@
 ---
-description: Mostly snake related.
+description: Mostly snake related
 ---
 
 # Python
