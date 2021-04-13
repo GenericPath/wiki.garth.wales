@@ -11,6 +11,11 @@
 * [Report](university/report.md)
 * [Work Diary](university/work-diary.md)
 
+## TODO \(Uni\) <a id="todo"></a>
+
+* [480](todo/480.md)
+* [420](todo/420.md)
+
 ## shortcuts / syntax / setup <a id="sss"></a>
 
 * [Python](sss/python.md)
