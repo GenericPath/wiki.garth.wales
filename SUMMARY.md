@@ -26,6 +26,7 @@
 * [Activation Functions](ml/activation-functions.md)
 * [Gym](ml/gym.md)
 * [RL frameworks](ml/rl-frameworks.md)
+* [Hyperparameters](ml/hyperparameters.md)
 
 ## Reinforcement learning <a id="rl"></a>
 
