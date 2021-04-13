@@ -22,4 +22,5 @@
 * [Deep Q Network](machine-learning/deep-q-network.md)
 * [Object Detection](machine-learning/object-detection.md)
 * [Face detection](machine-learning/face-detection.md)
+* [Activation Functions](machine-learning/activation-functions.md)
 
