@@ -6,6 +6,9 @@
 ## University
 
 * [400 Project Research](university/400-project-research.md)
+* [Aims](university/aims.md)
+* [Presentation](university/presentation.md)
+* [Report](university/report.md)
 * [Work Diary](university/work-diary.md)
 
 ## shortcuts / syntax / setup <a id="sss"></a>
@@ -15,6 +18,7 @@
 * [Git](sss/git.md)
 * [Dendron](sss/dendron.md)
 * [Visual Studio Code](sss/visual-studio-code.md)
+* [LaTeX](sss/latex.md)
 
 ## Machine Learning <a id="ml"></a>
 
