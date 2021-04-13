@@ -4,7 +4,7 @@ description: Collection of research for 'Face detection using reinforcement lear
 
 # 400 Project Research
 
-## Todo
+## TODO
 
 * [ ] Add which dataset each paper uses
 * [ ] Add more description of important topics covered by some papers \(i.e. topics to then cite\)
@@ -28,7 +28,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         </p>
       </td>
       <td style="text-align:left">Object detection using a novel reinforcement approach. Uses a pretrained
-        CNN to extract features, and a reinforcment learning &apos;localisation
+        CNN to extract features, and a reinforcement learning &apos;localisation
         policy&apos; based on DeepQNetwork.</td>
     </tr>
     <tr>
