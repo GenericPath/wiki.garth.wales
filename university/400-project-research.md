@@ -79,7 +79,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         </p>
       </td>
       <td style="text-align:left">
-        <p>An indepth look into how deep reinforcement learning.</p>
+        <p>An in-depth look into how deep reinforcement learning.</p>
         <p><em>TODO: note important topics covered</em>
         </p>
       </td>
@@ -93,7 +93,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         <p><a href="https://www.nature.com/articles/nature14236">https://www.nature.com/articles/nature14236</a>
         </p>
       </td>
-      <td style="text-align:left">Deep Q Network paper, the famous 2015 atari deepmind project.</td>
+      <td style="text-align:left">Deep Q Network paper, the famous 2015 Atari deepmind project.</td>
     </tr>
     <tr>
       <td style="text-align:left">
@@ -104,7 +104,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         <p><a href="https://ieeexplore.ieee.org/document/8100231">https://ieeexplore.ieee.org/document/8100231</a>
         </p>
       </td>
-      <td style="text-align:left">Novel multi-agent deep Q-learning algorithm with jointexploitation sampling.
+      <td style="text-align:left">Novel multi-agent deep Q-learning algorithm with joint exploitation sampling.
         Essentially allows multiple agents to collaborate to end up with &apos;person
         on a bicycle holding a cup&apos;</td>
     </tr>
@@ -129,7 +129,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833">https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833</a>
         </p>
       </td>
-      <td style="text-align:left">Deep reinforcement learning into cursory lane detection models for accu-rate
+      <td style="text-align:left">Deep reinforcement learning into cursory lane detection models for accurate
         lane detection and localization. Uses CNN to find bounding boxes, and reinforcement
         learning to use those boxes to create a good estimate of the curve of the
         lane.</td>
@@ -186,7 +186,7 @@ description: Collection of research for 'Face detection using reinforcement lear
         </p>
       </td>
       <td style="text-align:left">
-        <p>Novel method of using column and row estaimtes of how &apos;object&apos;
+        <p>Novel method of using column and row estimates of how &apos;object&apos;
           a given row/col looks. Creates two 1D curved regions that suggest a bounding
           box.</p>
         <p><a href="https://i.imgur.com/TxCetFs.png"><em>https://i.imgur.com/TxCetFs.png</em></a>

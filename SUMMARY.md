@@ -24,6 +24,7 @@
 * [Dendron](sss/dendron.md)
 * [Visual Studio Code](sss/visual-studio-code.md)
 * [LaTeX](sss/latex.md)
+* [Windows](sss/windows.md)
 
 ## Machine Learning <a id="ml"></a>
 
