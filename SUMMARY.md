@@ -16,15 +16,15 @@
 * [480](todo/480.md)
 * [420](todo/420.md)
 
-## shortcuts / syntax / setup <a id="sss"></a>
+## shortcuts / syntax / setup <a id="setup"></a>
 
-* [Python](sss/python.md)
-* [Markdown Syntax](sss/markdown.md)
-* [Git](sss/git.md)
-* [Dendron](sss/dendron.md)
-* [Visual Studio Code](sss/visual-studio-code.md)
-* [LaTeX](sss/latex.md)
-* [Windows](sss/windows.md)
+* [Python](setup/python.md)
+* [Markdown Syntax](setup/markdown.md)
+* [Git](setup/git.md)
+* [Dendron](setup/dendron.md)
+* [Visual Studio Code](setup/visual-studio-code.md)
+* [LaTeX](setup/latex.md)
+* [Windows](setup/windows.md)
 
 ## Machine Learning <a id="ml"></a>
 
