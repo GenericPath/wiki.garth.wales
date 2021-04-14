@@ -25,6 +25,7 @@
 * [Visual Studio Code](setup/visual-studio-code.md)
 * [LaTeX](setup/latex.md)
 * [Windows](setup/windows.md)
+* [Bash](setup/bash.md)
 
 ## Machine Learning <a id="ml"></a>
 
