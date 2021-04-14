@@ -37,6 +37,7 @@
 * [Gym](ml/gym.md)
 * [RL frameworks](ml/rl-frameworks.md)
 * [Hyperparameters](ml/hyperparameters.md)
+* [Interpretability](ml/interpretability.md)
 
 ## Reinforcement learning <a id="rl"></a>
 
