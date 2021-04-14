@@ -19,6 +19,12 @@ git submodule update
 git clone <...> --recurse-submodules
 ```
 {% endtab %}
+
+{% tab title="Pull" %}
+```
+git pull --recurse-submodules
+```
+{% endtab %}
 {% endtabs %}
 
 
