@@ -47,3 +47,7 @@
 * [Exploration techniques](rl/exploration-techniques.md)
 * [Agents](rl/agents.md)
 
+## garth.wales
+
+* [Website redesign](garth.wales/website-redesign.md)
+
