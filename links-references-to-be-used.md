@@ -10,4 +10,5 @@ description: These will be used to flesh out some other pages
 * [https://stackoverflow.com/questions/41175401/what-is-a-batch-in-tensorflow](https://stackoverflow.com/questions/41175401/what-is-a-batch-in-tensorflow)
 * [https://medium.com/@mjbhobe/classifying-fashion-with-a-keras-cnn-achieving-94-accuracy-part-2-a5bd7a4e7e5a](https://medium.com/@mjbhobe/classifying-fashion-with-a-keras-cnn-achieving-94-accuracy-part-2-a5bd7a4e7e5a)
 * [https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
+* [https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth](https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth)
 
