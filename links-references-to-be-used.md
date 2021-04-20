@@ -12,4 +12,5 @@ description: These will be used to flesh out some other pages
 * [https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/](https://machinelearningmastery.com/dropout-for-regularizing-deep-neural-networks/)
 * [https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth](https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth)
 * [https://stats.stackexchange.com/questions/419751/why-is-softmax-function-used-to-calculate-probabilities-although-we-can-divide-e](https://stats.stackexchange.com/questions/419751/why-is-softmax-function-used-to-calculate-probabilities-although-we-can-divide-e)
+* Future project idea: celluar automata
 
