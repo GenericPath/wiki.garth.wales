@@ -23,5 +23,5 @@ description: These will be used to flesh out some other pages
 
 * \*\*\*\*[**https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/**](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/) **\(also in the 480 todo\)**
 * **Is there a relationship between augmented data and new data both creating the same effect?**
-  * **Does the addition of 100,000 new images work better than the addition of 100,000 augmentations?**
+  * **Does the addition of 100,000 new images work better than the addition of 100,000 augmentations? Is this a good question?**
 
