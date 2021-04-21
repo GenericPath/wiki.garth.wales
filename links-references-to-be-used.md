@@ -13,4 +13,13 @@ description: These will be used to flesh out some other pages
 * [https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth](https://www.kaggle.com/toldo171/tutorial-how-to-get-99-2-from-scratch-indepth)
 * [https://stats.stackexchange.com/questions/419751/why-is-softmax-function-used-to-calculate-probabilities-although-we-can-divide-e](https://stats.stackexchange.com/questions/419751/why-is-softmax-function-used-to-calculate-probabilities-although-we-can-divide-e)
 * Future project idea: celluar automata
+* [https://stackoverflow.com/questions/44164749/how-does-keras-handle-multilabel-classification](https://stackoverflow.com/questions/44164749/how-does-keras-handle-multilabel-classification)
+* **Focal Loss**
+
+  **Focal Loss** was introduced by Lin et al., from Facebook, in [this paper](https://arxiv.org/abs/1708.02002). They claim to improve one-stage object detectors using **Focal Loss** to train a detector they name RetinaNet. **Focal loss** is a **Cross-Entropy Loss** that weighs the contribution of each sample to the loss based in the classification error. The idea is that, if a sample is already classified correctly by the CNN, its contribution to the loss decreases. With this strategy, they claim to solve the problem of class imbalance by making the loss implicitly focus in those problematic classes.  
+   Moreover, they also weight the contribution of each class to the lose in a more explicit class balancing. They use Sigmoid activations, so **Focal loss** could also be considered a **Binary Cross-Entropy Loss**  
+  
+  [**https://gombru.github.io/2018/05/23/cross\_entropy\_loss/**](https://gombru.github.io/2018/05/23/cross_entropy_loss/)\*\*\*\*
+
+* \*\*\*\*
 
