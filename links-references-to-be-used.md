@@ -21,5 +21,5 @@ description: These will be used to flesh out some other pages
   
   [**https://gombru.github.io/2018/05/23/cross\_entropy\_loss/**](https://gombru.github.io/2018/05/23/cross_entropy_loss/)\*\*\*\*
 
-* \*\*\*\*
+* \*\*\*\*[**https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/**](https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/) **\(also in the 480 todo\)**
 
