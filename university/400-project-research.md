@@ -268,6 +268,31 @@ description: Collection of research for 'Face detection using reinforcement lear
       <td style="text-align:left">Uses discriminative complete features (DCFs) to replace image pyramid
         employed by standard CNN to improve efficiency for face detection.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Reinforcement Learning for Improving Object Detection</b>
+        </p>
+        <p>S. Nayak</p>
+        <p></p>
+        <p><a href="https://arxiv.org/pdf/2008.08005.pdf">https://arxiv.org/pdf/2008.08005.pdf</a>
+        </p>
+      </td>
+      <td style="text-align:left">Use RL to learn the preprocessing for images to improve object detection
+        rates. Standard networks are so nonlinear they respond differently to image
+        parameters like brightness, contrast, etc. Use RL to learn to fix this.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Efficient Object Detection in Large Images using Deep Reinforcement Learning</b>
+        </p>
+        <p>B. Uzkent</p>
+        <p></p>
+        <p><a href="https://arxiv.org/pdf/1912.03966.pdf">https://arxiv.org/pdf/1912.03966.pdf</a>
+        </p>
+      </td>
+      <td style="text-align:left">From abstract: Proposes a reinforcement learning agent that adaptively
+        selects the spatial resolution of each image that is provided to the detector.</td>
+    </tr>
   </tbody>
 </table>
 
