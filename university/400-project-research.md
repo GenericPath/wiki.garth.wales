@@ -8,6 +8,7 @@ description: Collection of research for 'Face detection using reinforcement lear
 
 * [ ] Add which dataset each paper uses
 * [ ] Add more description of important topics covered by some papers \(i.e. topics to then cite\)
+* [ ] We use a learning system prior to the RL, 'We don't want to stub our toe lots to learn vision' - Geoff Hinton \([https://www.youtube.com/watch?v=N0ER1MC9cqM](https://www.youtube.com/watch?v=N0ER1MC9cqM) ~28mins\)
 
 ## Research papers
 
