@@ -32,3 +32,10 @@ Started implementing keras-rl, gave up on using stable-baselines. Stable-baselin
 **13/04 - Tuesday**  
 Realised Keras-RL is dead, therefore should replace with something with complete documentation. [Most RL frameworks ](../ml/rl-frameworks.md)act similarily as they use [Gym ](../ml/gym.md)style environments. _Also working on other ai_ _assignment._
 
+_~~ I got distracted by assignments ~~_
+
+**5/04 - Wednesday**  
+Supervisor meeting: Store all possible permutations of an image \(zoom, shift etc\) and then feed the CNN features into the model, instead of images. Spend a day to calculate all the features so the training process is quicker. Another point, eventually use continuous action space rather than discrete. e.g. zoom levels and move left/right by a chosen amount. Discrete is making it learn more easily, but continuous might let it bet other systems.
+
+\_\_
+
