@@ -34,8 +34,13 @@ Realised Keras-RL is dead, therefore should replace with something with complete
 
 _~~ I got distracted by assignments ~~_
 
+### **Week 9**
+
 **5/04 - Wednesday**  
 Supervisor meeting: Store all possible permutations of an image \(zoom, shift etc\) and then feed the CNN features into the model, instead of images. Spend a day to calculate all the features so the training process is quicker. Another point, eventually use continuous action space rather than discrete. e.g. zoom levels and move left/right by a chosen amount. Discrete is making it learn more easily, but continuous might let it bet other systems.
+
+**6/06 - Thursday**  
+Switched to rllib instead of stable-baselines, because sb2 is outdated. rllib seems to make more sense too for implementing custom models. Some reddit threads suggested it or sb3 but sb3 is pytorch only.
 
 \_\_
 
