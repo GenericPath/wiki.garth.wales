@@ -25,4 +25,5 @@ description: These will be used to flesh out some other pages
 * **Is there a relationship between augmented data and new data both creating the same effect?**
   * **Does the addition of 100,000 new images work better than the addition of 100,000 augmentations? Is this a good question?**
 * \*\*\*\*[**https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/**](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/) **\(really good for explanations of different activation and regularisation techniques\)**
+* \*\*\*\*[**https://spinningup.openai.com/en/latest/user/introduction.hml\#introduction**](https://spinningup.openai.com/en/latest/user/introduction.html#introduction) **This whole spinningup stuff covers just about everything!**
 
