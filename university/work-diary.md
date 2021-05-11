@@ -45,5 +45,8 @@ Switched to rllib instead of stable-baselines, because sb2 is outdated. rllib se
 **10/05 - Monday**  
 Fully working 'step' for the environment. Observations need to be implemented.
 
+**11/05 - Tuesday**  
+Will switch rl library, rllib is just painful but so are most. Narrowed down a list of libraries to use.. keras-rl has a replacement that looks good or Acme which is designed more around my purpose \(tf.dataset\)
+
 \_\_
 
