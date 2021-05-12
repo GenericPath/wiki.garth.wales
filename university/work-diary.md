@@ -48,5 +48,9 @@ Fully working 'step' for the environment. Observations need to be implemented.
 **11/05 - Tuesday**  
 Will switch rl library, rllib is just painful but so are most. Narrowed down a list of libraries to use.. keras-rl has a replacement that looks good or Acme which is designed more around my purpose \(tf.dataset\)
 
+**12/05 - Wednesday**  
+Acme, dopamine are all weird. Tensorforce lets you split the problem apart, but after meeting I might not switch to that...   
+Supervisor meeting: don't bend the RL, bend the problem to fit RL. RL should be blind to the problem. So best practice may be to make the environment consist of all the images, and reset\(\) doesn't reset to the same image, but to a random image from all the images. This way an episode could be a lot of images all in one. It is being presented with a series of images that it is trying to localise within.
+
 \_\_
 
