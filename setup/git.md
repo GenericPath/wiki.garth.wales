@@ -27,5 +27,9 @@ git pull --recurse-submodules
 {% endtab %}
 {% endtabs %}
 
+To remove tracked files, that should be ignored from .gitignore
 
+```text
+git rm -r --cached . && git add . && git commit -am "Remove ignored files"
+```
 
