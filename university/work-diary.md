@@ -4,6 +4,8 @@ description: All work and no play makes jack a dull boy
 
 # Work Diary
 
+note to self: write these discussing every little concern, problem and solution found throughout the year.
+
 ### Week 5
 
 **31/03 - Wednesday**   
@@ -55,7 +57,10 @@ Acme, dopamine are all weird. Tensorforce lets you split the problem apart, but 
 Supervisor meeting: don't bend the RL, bend the problem to fit RL. RL should be blind to the problem. So best practice may be to make the environment consist of all the images, and reset\(\) doesn't reset to the same image, but to a random image from all the images. This way an episode could be a lot of images all in one. It is being presented with a series of images that it is trying to localise within.
 
 **13/05 - Thursday**  
-Setting up stuff for the downloaded dataset and environment to choose random images per reset**14/05 - 14/05 - Friday**  
+Setting up stuff for the downloaded dataset and environment to choose random images per reset  
+JC paper never talks about how the train/test separation occurs. Rewards are only relevant for training is the only thing mentioned \(if so, what do you do instead?\) JC paper never mentions how it handles finishing with no moves or with some moves \(are these separate potential choices? or a single decision?\)
+
+ **14/05 - Friday**  
 _Steve's thesis writing seminar_  
 to be a better writer you need to read and write.  
  - Write down what makes certain papers easy to read  
@@ -74,8 +79,26 @@ Can't explain everything, have to assume some level of knowledge \(especially if
 You want images to float around, but don't want to create gaps of whitespace \(makes it seem like the end of the chapter\)  
 Number equations! And use syntax with them \(i.e. if something becomes x=123123. or matrix, X=\[\], where..\)  
 Numbered references make sense for small works, but a PhD with 120 pages and 200 references \[137\] isn't going to be useful, instead \(V Minh et. al, 2015\)  
+Write early, write often  
+- You'll forget stuff, get feedback earlier, writing is not just words as well \(figures, references, ideas, questions, data/results/timings\) Use something like this to keep track of it all!  
+Project report  
+- Medium sized document, sections but not chapters  
+- Need to organise ideas  
+- Need to worry about 'story'  
+Typical structure is good \(won't confuse the markers! but not the only option\)  
+- Introduction  
+- Background / related work  
+- Methods / approach  
+- Results and analysis  
+-Discussion and future work  
+- References / bibliography  
+- Appendices  
+Slides on typical structure are good  
+Related work, boring if you just say 'x did \_\_'.  
+- Instead organise, analyse and give insight. \(The main approaches are.., 'gap' to address\)  
+ \(4th year we can just replicate but i'm kinda trying to improve\)  
+No is a perfectly acceptable answer if you know it really didn't work and why it didn't work  
+Say the results in abstract, introduction, results and conclusion \(marker might notice them this way!\)  
   
 
-
-\_\_
 
