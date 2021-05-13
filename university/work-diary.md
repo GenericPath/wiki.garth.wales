@@ -123,5 +123,8 @@ Explain all the terms \(i.e. what is a convolutional neural network the first ti
   
 Keep it simple! Not utilize but use, not learnings but lesson. Don't become all 'academic'.  
 Don't need to say deploy a developed implementation, you aren't going to deploy a non developed implementation. Remove words that aren't doing anything. ENGL127 lessons.  
+  
+"If you wouldn't say it, don't write it" \(but the converse isn't true\)  
+Read the writing aloud to see how natural it is. \(Need to break it up also to breathe\)  
 
 
