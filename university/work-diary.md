@@ -42,6 +42,8 @@ Supervisor meeting: Store all possible permutations of an image \(zoom, shift et
 **6/05 - Thursday**  
 Switched to rllib instead of stable-baselines, because sb2 is outdated. rllib seems to make more sense too for implementing custom models. Some reddit threads suggested it or sb3 but sb3 is pytorch only.
 
+### Week 10
+
 **10/05 - Monday**  
 Fully working 'step' for the environment. Observations need to be implemented.
 
@@ -51,6 +53,29 @@ Will switch rl library, rllib is just painful but so are most. Narrowed down a l
 **12/05 - Wednesday**  
 Acme, dopamine are all weird. Tensorforce lets you split the problem apart, but after meeting I might not switch to that...   
 Supervisor meeting: don't bend the RL, bend the problem to fit RL. RL should be blind to the problem. So best practice may be to make the environment consist of all the images, and reset\(\) doesn't reset to the same image, but to a random image from all the images. This way an episode could be a lot of images all in one. It is being presented with a series of images that it is trying to localise within.
+
+**13/05 - Thursday**  
+Setting up stuff for the downloaded dataset and environment to choose random images per reset**14/05 - 14/05 - Friday**  
+_Steve's thesis writing seminar_  
+to be a better writer you need to read and write.  
+ - Write down what makes certain papers easy to read  
+- Write down what makes it harder to read  
+Don't just copy the bad academic writing, find the ones that make sense and copy their style.  
+Don't expect the writing to be perfect first time, just write a bunch of rubbish and edit it all.  
+The supervisor can't write it, but can make big edit suggestions!  
+If you can explain it verbally you can write it down \(could consider transcribing stuff\)  
+You aren't writing a murder mystery, but you want some 'story'  
+as above, so the summary/abstract tells the full story in short \(the butler did it this is what we used to find out\)  
+Full examples \(showing all the steps\) make it easier to understand. Like in JC paper they don't explain every single step but just talk about oh these things happen but don't cover all the cases.  
+Things that annoy  
+- overcomplicate \(makes you feel smart, but we want to make reader feel smart\)  
+- jargon / TLAs \(three leter acronym\)  
+Can't explain everything, have to assume some level of knowledge \(especially if journal has page limit\)  
+You want images to float around, but don't want to create gaps of whitespace \(makes it seem like the end of the chapter\)  
+Number equations! And use syntax with them \(i.e. if something becomes x=123123. or matrix, X=\[\], where..\)  
+Numbered references make sense for small works, but a PhD with 120 pages and 200 references \[137\] isn't going to be useful, instead \(V Minh et. al, 2015\)  
+  
+
 
 \_\_
 
