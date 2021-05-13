@@ -61,30 +61,40 @@ Setting up stuff for the downloaded dataset and environment to choose random ima
 JC paper never talks about how the train/test separation occurs. Rewards are only relevant for training is the only thing mentioned \(if so, what do you do instead?\) JC paper never mentions how it handles finishing with no moves or with some moves \(are these separate potential choices? or a single decision?\)
 
  **14/05 - Friday**  
-_Steve's thesis writing seminar_  
-to be a better writer you need to read and write.  
+_Steve's thesis writing seminar_    \(to be a better writer you need to read and write.\)  
+  
  - Write down what makes certain papers easy to read  
 - Write down what makes it harder to read  
+  
 Don't just copy the bad academic writing, find the ones that make sense and copy their style.  
 Don't expect the writing to be perfect first time, just write a bunch of rubbish and edit it all.  
 The supervisor can't write it, but can make big edit suggestions!  
+  
 If you can explain it verbally you can write it down \(could consider transcribing stuff\)  
 You aren't writing a murder mystery, but you want some 'story'  
 as above, so the summary/abstract tells the full story in short \(the butler did it this is what we used to find out\)  
+  
 Full examples \(showing all the steps\) make it easier to understand. Like in JC paper they don't explain every single step but just talk about oh these things happen but don't cover all the cases.  
+  
 Things that annoy  
 - overcomplicate \(makes you feel smart, but we want to make reader feel smart\)  
 - jargon / TLAs \(three leter acronym\)  
+  
 Can't explain everything, have to assume some level of knowledge \(especially if journal has page limit\)  
 You want images to float around, but don't want to create gaps of whitespace \(makes it seem like the end of the chapter\)  
+  
 Number equations! And use syntax with them \(i.e. if something becomes x=123123. or matrix, X=\[\], where..\)  
+  
 Numbered references make sense for small works, but a PhD with 120 pages and 200 references \[137\] isn't going to be useful, instead \(V Minh et. al, 2015\)  
+  
 Write early, write often  
 - You'll forget stuff, get feedback earlier, writing is not just words as well \(figures, references, ideas, questions, data/results/timings\) Use something like this to keep track of it all!  
+  
 Project report  
 - Medium sized document, sections but not chapters  
 - Need to organise ideas  
 - Need to worry about 'story'  
+  
 Typical structure is good \(won't confuse the markers! but not the only option\)  
 - Introduction  
 - Background / related work  
@@ -100,5 +110,18 @@ Related work, boring if you just say 'x did \_\_'.
 No is a perfectly acceptable answer if you know it really didn't work and why it didn't work  
 Say the results in abstract, introduction, results and conclusion \(marker might notice them this way!\)  
   
+Things that don't help the writing  
+- complaining about libraries or getting compiler to work \(not interesting to the reader!!\)  
+Target audience should be 4th year computing \(someone not in your area!\)  
+  
+Looking for  
+- how much you learnt, how much you know about the area  
+  
+Explain all the terms \(i.e. what is a convolutional neural network the first time you use it\)  
+- Someone in computer science doesn't neccessarily know what it is or might need a refresher  
+- Same word might mean one thing and something else to someone else, define these and be consistent with meaning  
+  
+Keep it simple! Not utilize but use, not learnings but lesson. Don't become all 'academic'.  
+Don't need to say deploy a developed implementation, you aren't going to deploy a non developed implementation. Remove words that aren't doing anything. ENGL127 lessons.  
 
 
