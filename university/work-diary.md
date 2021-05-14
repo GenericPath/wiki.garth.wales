@@ -125,6 +125,11 @@ Keep it simple! Not utilize but use, not learnings but lesson. Don't become all 
 Don't need to say deploy a developed implementation, you aren't going to deploy a non developed implementation. Remove words that aren't doing anything. ENGL127 lessons.  
   
 "If you wouldn't say it, don't write it" \(but the converse isn't true\)  
-Read the writing aloud to see how natural it is. \(Need to break it up also to breathe\)  
+Read the writing aloud to see how natural it is. \(Need to break it up also to breathe\)
+
+**Friday cont**  
+Consider adding random noise / data augmentation like in normal things... for real world applications this could be useful but for atari it didn't seem to improve it \([https://www.youtube.com/watch?v=fevMOp5TDQs](https://www.youtube.com/watch?v=fevMOp5TDQs)\)
+
+  
 
 
