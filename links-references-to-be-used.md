@@ -27,4 +27,5 @@ description: These will be used to flesh out some other pages
 * \*\*\*\*[**https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/**](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/) **\(really good for explanations of different activation and regularisation techniques\)**
 * \*\*\*\*[**https://spinningup.openai.com/en/latest/user/introduction.hml\#introduction**](https://spinningup.openai.com/en/latest/user/introduction.html#introduction) **This whole spinningup stuff covers just about everything!**
 * **rlhard** [**https://www.alexirpan.com/2018/02/14/rl-hard.html**](https://www.alexirpan.com/2018/02/14/rl-hard.html) **\(very good!\)**
+* \*\*\*\*[**https://www.youtube.com/watch?v=fevMOp5TDQs**](https://www.youtube.com/watch?v=fevMOp5TDQs)\*\*\*\*
 
