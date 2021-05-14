@@ -128,7 +128,8 @@ Don't need to say deploy a developed implementation, you aren't going to deploy 
 Read the writing aloud to see how natural it is. \(Need to break it up also to breathe\)
 
 **Friday cont**  
-Consider adding random noise / data augmentation like in normal things... for real world applications this could be useful but for atari it didn't seem to improve it \([https://www.youtube.com/watch?v=fevMOp5TDQs](https://www.youtube.com/watch?v=fevMOp5TDQs)\)
+Consider adding random noise / data augmentation like in normal things... for real world applications this could be useful but for atari it didn't seem to improve it \([https://www.youtube.com/watch?v=fevMOp5TDQs](https://www.youtube.com/watch?v=fevMOp5TDQs)\)  
+Running environment on the atari CNN policy... will implement the real one tomorrow?
 
   
 
