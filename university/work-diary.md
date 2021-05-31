@@ -118,7 +118,7 @@ Looking for
 - how much you learnt, how much you know about the area  
   
 Explain all the terms \(i.e. what is a convolutional neural network the first time you use it\)  
-- Someone in computer science doesn't neccessarily know what it is or might need a refresher  
+- Someone in computer science doesn't necessarily know what it is or might need a refresher  
 - Same word might mean one thing and something else to someone else, define these and be consistent with meaning  
   
 Keep it simple! Not utilize but use, not learnings but lesson. Don't become all 'academic'.  
@@ -128,8 +128,14 @@ Don't need to say deploy a developed implementation, you aren't going to deploy 
 Read the writing aloud to see how natural it is. \(Need to break it up also to breathe\)
 
 **Friday cont**  
-Consider adding random noise / data augmentation like in normal things... for real world applications this could be useful but for atari it didn't seem to improve it \([https://www.youtube.com/watch?v=fevMOp5TDQs](https://www.youtube.com/watch?v=fevMOp5TDQs)\)  
-Running environment on the atari CNN policy... will implement the real one tomorrow?
+Consider adding random noise / data augmentation like in normal things... for real world applications this could be useful but for Atari it didn't seem to improve it \([https://www.youtube.com/watch?v=fevMOp5TDQs](https://www.youtube.com/watch?v=fevMOp5TDQs)\)  
+Running environment on the Atari CNN policy... will implement the real one tomorrow?
+
+~~~~ Doing assignments ~~~~
+
+**31/05 - Monday**  
+Working on getting some results from the model.  
+This link is useful [https://andyljones.com/posts/rl-debugging.html](https://andyljones.com/posts/rl-debugging.html)
 
   
 
