@@ -137,6 +137,9 @@ Running environment on the Atari CNN policy... will implement the real one tomor
 Working on getting some results from the model.  
 This link is useful [https://andyljones.com/posts/rl-debugging.html](https://andyljones.com/posts/rl-debugging.html)
 
+**1/06 - Tuesday**  
+The default settings for stable-baselines DQN is similar to the papers settings... But still isn't learning.. Trying different parameters to get it to learn a single image with no success so far.
+
   
 
 
