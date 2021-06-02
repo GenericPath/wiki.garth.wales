@@ -141,7 +141,8 @@ This link is useful [https://andyljones.com/posts/rl-debugging.html](https://and
 The default settings for stable-baselines DQN is similar to the papers settings... Trying some different models. One of the previous models \(features\_mlp\_4\) actually does demonstrate it has learnt. But it struggles with the final part of 'ending'. I may need to try a lower gamma or more training time.
 
 **2/06 - Wednesday**  
-Supervisor agreed it seems like an appropriate set up to learn. May need to train for longer. The only weird part is training on a single image resulted in worse performance. If anything it should be able to memorise instead of learn yet it just does bad behaviour. Sanity checks seem to hold true so who knows... Maybe I need to write some unit tests? Maybe.. Will start training and writing the report.
+Supervisor agreed it seems like an appropriate set up to learn. May need to train for longer. The only weird part is training on a single image resulted in worse performance. If anything it should be able to memorise instead of learn yet it just does bad behaviour. Sanity checks seem to hold true so who knows... Maybe I need to write some unit tests? Maybe.. Will start training and writing the report.  
+Also Lech suggested exponential reward scheme as opposed to linear \(current +1+1-1 linear\)
 
  
 
