@@ -142,7 +142,24 @@ The default settings for stable-baselines DQN is similar to the papers settings.
 
 **2/06 - Wednesday**  
 Supervisor agreed it seems like an appropriate set up to learn. May need to train for longer. The only weird part is training on a single image resulted in worse performance. If anything it should be able to memorise instead of learn yet it just does bad behaviour. Sanity checks seem to hold true so who knows... Maybe I need to write some unit tests? Maybe.. Will start training and writing the report.  
-Also Lech suggested exponential reward scheme as opposed to linear \(current +1+1-1 linear\)
+Also Lech suggested exponential reward scheme as opposed to linear \(current +1+1-1 linear\)  
+  
+I also learnt about how reinforcment learning algorithms work..  
+[https://stats.stackexchange.com/questions/355820/why-do-temporal-difference-td-methods-have-lower-variance-than-monte-carlo-met](https://stats.stackexchange.com/questions/355820/why-do-temporal-difference-td-methods-have-lower-variance-than-monte-carlo-met)  
+[https://old.reddit.com/r/reinforcementlearning/comments/bb64ui/why\_not\_just\_accumulate\_all\_the\_future\_rewards/](https://old.reddit.com/r/reinforcementlearning/comments/bb64ui/why_not_just_accumulate_all_the_future_rewards/)  
+Also should make definitions of all the statistical terms that I don't neccessarily remember fully.  
+  
+Both TD and MC use the same formula for RL for action value estimation...  
+But Monte carlo changes estimations based on sums of steps \(biased!\)  
+where as TD changes estimations based on single step changes \(un-biased\)  
+ TD uses bootstrapping to let it actually do something \(this is the period of before learning starts.. this way it will learn a bias representation at the start just to boostrap the actual learning. the actual learning will slowly debias this  
+  
+Also this is interesting [https://aakash94.github.io/Reward-Based-Epsilon-Decay/](https://aakash94.github.io/Reward-Based-Epsilon-Decay/)  
+\(Maybe Rainbow already implements this?\)  
+  
+Also from the above reddit thread  
+"The bias/variance trade-off is not obvious in N-step DQN. When N increases, on one hand you decrease the bias because you use additional "real" rewards \(and reduce the weight of the bootstrapped component\), but on the other hand you also increase the bias due to the fact that you are working off-policy \(those "real" rewards were obtained when following an old version of your policy\). So the end result in unclear and will depend on your specific setup \(in practice it seems that it often helps to use a small N &gt; 1, e.g. between 3 and 5\)."  
+So essentially that is what the steps between learning is?
 
  
 
