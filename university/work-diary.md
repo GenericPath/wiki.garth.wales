@@ -161,6 +161,12 @@ Also from the above reddit thread
 "The bias/variance trade-off is not obvious in N-step DQN. When N increases, on one hand you decrease the bias because you use additional "real" rewards \(and reduce the weight of the bootstrapped component\), but on the other hand you also increase the bias due to the fact that you are working off-policy \(those "real" rewards were obtained when following an old version of your policy\). So the end result in unclear and will depend on your specific setup \(in practice it seems that it often helps to use a small N &gt; 1, e.g. between 3 and 5\)."  
 So essentially that is what the steps between learning is?
 
+**3/06 - Thursday**  
+Continued working on the program. Downloaded widerface and FDDB datasets as the original dataset had only 472 images with only one face \(the training can't neccessarily handle more at the moment..\)  
+PASCAL VOC compared to say ImageNet is that it will likely have more objects in a given scene, therefore will enable it to distinguish things in one scene.  
+[https://tuggeluk.github.io/papers/preprint\_deepscores.pdf](https://tuggeluk.github.io/papers/preprint_deepscores.pdf)  
+
+
  
 
   
