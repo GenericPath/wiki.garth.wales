@@ -164,7 +164,15 @@ So essentially that is what the steps between learning is?
 **3/06 - Thursday**  
 Continued working on the program. Downloaded widerface and FDDB datasets as the original dataset had only 472 images with only one face \(the training can't neccessarily handle more at the moment..\)  
 PASCAL VOC compared to say ImageNet is that it will likely have more objects in a given scene, therefore will enable it to distinguish things in one scene.  
-[https://tuggeluk.github.io/papers/preprint\_deepscores.pdf](https://tuggeluk.github.io/papers/preprint_deepscores.pdf)  
+[https://tuggeluk.github.io/papers/preprint\_deepscores.pdf](https://tuggeluk.github.io/papers/preprint_deepscores.pdf)
+
+**4/06 - Friday**  
+Buffer size depends on how much you want to learning based on recent actions vs historical actions.  
+Too big and it will not learn quickly as it is learning from experiences with an old network, too small and it will be able to take note of the most recent experiences.  
+[https://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf](https://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf)  
+[https://ai.stackexchange.com/questions/11640/how-large-should-the-replay-buffer-be](https://ai.stackexchange.com/questions/11640/how-large-should-the-replay-buffer-be)  
+[https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293\#13293](https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293#13293)  
+  
 
 
  
