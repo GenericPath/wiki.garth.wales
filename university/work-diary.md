@@ -171,7 +171,11 @@ Buffer size depends on how much you want to learning based on recent actions vs 
 Too big and it will not learn quickly as it is learning from experiences with an old network, too small and it will be able to take note of the most recent experiences.  
 [https://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf](https://acsweb.ucsd.edu/~wfedus/pdf/replay.pdf)  
 [https://ai.stackexchange.com/questions/11640/how-large-should-the-replay-buffer-be](https://ai.stackexchange.com/questions/11640/how-large-should-the-replay-buffer-be)  
-[https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293\#13293](https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293#13293)  
+[https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293\#13293](https://ai.stackexchange.com/questions/13289/are-neural-networks-prone-to-catastrophic-forgetting/13293#13293)
+
+**11/06 - Friday**  
+Writing about neural networks and convolutions.. [https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59](https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59)  
+  
   
 
 
