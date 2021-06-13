@@ -177,7 +177,14 @@ Too big and it will not learn quickly as it is learning from experiences with an
 Writing about neural networks and convolutions.. [https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59](https://chriswolfvision.medium.com/what-is-translation-equivariance-and-why-do-we-use-convolutions-to-get-it-6f18139d4c59)  
 [https://cs231n.github.io/convolutional-networks/](https://cs231n.github.io/convolutional-networks/)  
   
-Note: Pooling is bad for face recognition, because it removes the spatial information for distance between eyes etc... +features, it seem, are very inprecise currently \(i dont know how true that is though\)  
+Note: Pooling is bad for face recognition, because it removes the spatial information for distance between eyes etc... +features, it seem, are very inprecise currently \(i dont know how true that is though\)
+
+**14/06 - Monday**  
+[https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html\#fast-r-cnn](https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html#fast-r-cnn)  
+Working on background..  
+[https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e](https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e)
+
+  
   
   
 
