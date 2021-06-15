@@ -186,7 +186,8 @@ Working on background..
 This is quite good, but im not using it [https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359](https://jonathan-hui.medium.com/object-detection-speed-and-accuracy-comparison-faster-r-cnn-r-fcn-ssd-and-yolo-5425656ae359)  
 also this is useful but not used as well [https://arxiv.org/pdf/1611.10012.pdf](https://arxiv.org/pdf/1611.10012.pdf)
 
-  
+**15/06 - Tuesday**  
+working on introduction of report, then will work on RL portion.  
   
   
 
