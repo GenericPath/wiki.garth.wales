@@ -73,11 +73,35 @@ Rotation invariance by estimating feature orientation
 * SIFT does feature orientation with Histogram of Gradients
 * SIFT uses blobs
 
+### Matching
+
+* Approximate Nearest neighbours \(look in distinct regions in both images\)
+  * But might be transformed slightly past that region...
+* Quadtrees, Octrees, etc
+  * Recursively split across axis to have some minimum number of splits/items
+* k-d Trees
+  * Split on axis to keep similar number of items per region
+* Bruteforce
+  * Match literally everything together.. \(even most of these are wrong!\)
+
+Rejecting bad matches
+
+* Ambiguity \(two with similar distances\)
+* Orientation \(not the same relative orientation\)
+* Scale \(not the same relative scale\)
+
+_or something along those lines_
+
 ## Estimate a homography
 
 Homography is a linear map \(transformation matrix\) between one images feature to that feature in the second image.
 
 Given a set of n points \(**u** ,**v** \) which are matching points in both images we want to estimate the homography matrix **H**.
+
+* **u** ≡ **H x u'**
+  * Equivalence due to being the same when scaled also
+
+\*\*\*\*
 
 ### Direct linear transform
 
