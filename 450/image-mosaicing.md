@@ -105,7 +105,32 @@ Given a set of n points \(**u** ,**v** \) which are matching points in both imag
 
 ### Direct linear transform
 
-A method to 
+Estimate the homography matrix using matching points \(there are two equations to substitute all the points with\) such that A**h** = 0 = 0**h**
+
+So looking for an eigenvector with a zero eigenvalue...
+
+Four points is sufficient \(H has 9 values, upto a scale so 8 degrees of freedom\)
+
+More points gives a least-squares solution
+
+* Eigenvector with the smallest least squares solution
+* Minimised \|\|A**h\|\|**
+
+Because each u,v are pixel coordinates vary from 0,1 up to 1000's therefore solutions quite unstable  
+as equations have 0, 1, u, v and u\*v values so vary from 0 to millions. Normalise to make each each h\_i have a similar effect on the solution  
+
+
+therefore:
+
+* Normalise
+* DLT
+* Denormalise
+
+### Reprojection error
+
+With more than 4 points we are trying to minimise \|\|A**h\|\|** but has no inherent meaning.
+
+Instead could consider error as only existing in the second image
 
 ## Warp one image to the other
 
