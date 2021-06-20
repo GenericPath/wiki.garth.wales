@@ -72,8 +72,8 @@ Rotation invariance by estimating feature orientation
 
 **SIFT** does this well
 
-* SIFT does feature orientation with Histogram of Gradients
-* SIFT uses blobs
+* SIFT does feature orientation with Histogram of Gradients \(rotation invariance\)
+* SIFT uses blobs for scale invariance
 
 ### Matching
 
