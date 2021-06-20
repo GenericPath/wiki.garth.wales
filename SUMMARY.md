@@ -56,4 +56,6 @@
 
 * [Image Mosaicing](450/image-mosaicing.md)
 * [Stereo Vision](450/stereo-vision.md)
+* [Rendering](450/rendering.md)
+* [Exam papers](450/exam-papers.md)
 
