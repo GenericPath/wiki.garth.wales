@@ -55,4 +55,5 @@
 ## 450
 
 * [Image Mosaicing](450/image-mosaicing.md)
+* [Stereo Vision](450/stereo-vision.md)
 

@@ -4,6 +4,8 @@ description: Stitching many images together
 
 # Image Mosaicing
 
+[https://blackboard.otago.ac.nz/bbcswebdav/pid-2625554-dt-content-rid-16683578\_1/courses/COSC450\_S1DNI\_2021/Mosaicing%204%20-%20Review.pdf](https://blackboard.otago.ac.nz/bbcswebdav/pid-2625554-dt-content-rid-16683578_1/courses/COSC450_S1DNI_2021/Mosaicing%204%20-%20Review.pdf)
+
 ## Detect features
 
 Feature points / key points and feature descriptors
@@ -109,7 +111,7 @@ Estimate the homography matrix using matching points \(there are two equations t
 
 So looking for an eigenvector with a zero eigenvalue...
 
-Four points is sufficient \(H has 9 values, upto a scale so 8 degrees of freedom\)
+_**Four points is sufficient**_ \(H has 9 values, upto a scale so 8 degrees of freedom\)
 
 More points gives a least-squares solution
 
@@ -130,7 +132,52 @@ therefore:
 
 With more than 4 points we are trying to minimise \|\|A**h\|\|** but has no inherent meaning.
 
-Instead could consider error as only existing in the second image
+Instead could consider error as only existing in the second image \(transfer error\)
+
+Reprojection error is for error in both images, nonlinear least squares
+
+* Levenberg Marquardt \(to solve the reprojection error\)
+
+Least-square solutions are sensitive to outliers!
+
+Use _RANSAC_ to solve this.
+
+* Randomly pick 4 points
+* Esimate H
+* Count how many agree
+* Repeat until you find a good one
+
+Parameters
+
+* Threshold of acceptance \(too high and outliers, too low and small consensus set\)
+* Number of trials \(resource limitations? could also be considered as a probability of success instead\)
+
+### The gist
+
+* Compute and describe features in each image
+* Find correspondences between images, _filter them_
+* RANSAC estimation via DLT \(selection 4, estimate H. See how many agree\)
+* Optimal estimation - using all inliers estimate H using Levenberg-Marquardt to minimise reprojection error
 
 ## Warp one image to the other
+
+Project the image onto a mapping scheme \(planar, spherical, cylindrical etc\)
+
+### Seamlines
+
+* Minimise error along seam
+* Pixels become verticies of a graph
+* Djikstras algorithm for shortest path
+
+Another approach
+
+* Find worst you have to cross
+* Remove edges with greater weight
+* Shortest remaining path
+
+### Multi-image
+
+* If realtime, seamline with incremental seamlines \(but doesn't neccessarily produce the most optimal solution\)
+* Junction fitting - Use a rough guess, seamline to some junction area \(not global!\)
+  * Bottlenecks are found in each local area
 
