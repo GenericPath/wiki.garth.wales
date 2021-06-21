@@ -1,5 +1,5 @@
 ---
-description: All work and no play makes jack a dull boy
+description: I should have written this the other way around..
 ---
 
 # Work Diary
