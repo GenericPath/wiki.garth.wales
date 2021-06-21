@@ -59,4 +59,6 @@
 * [Learning](420/learning.md)
 * [Learning theory](420/learning-theory.md)
 * [Stochastic Neural Networks](420/stochastic-neural-networks.md)
+* [Interpretability](420/interpretability.md)
+* [Exam](420/exam.md)
 
