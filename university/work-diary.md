@@ -187,7 +187,9 @@ This is quite good, but im not using it [https://jonathan-hui.medium.com/object-
 also this is useful but not used as well [https://arxiv.org/pdf/1611.10012.pdf](https://arxiv.org/pdf/1611.10012.pdf)
 
 **15/06 - Tuesday**  
-working on introduction of report, then will work on RL portion.  
+working on introduction of report, then will work on RL portion.
+
+~~ Exam study and sitting ~~  
   
   
 
