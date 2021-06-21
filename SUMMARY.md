@@ -12,12 +12,6 @@
 * [Report](university/report.md)
 * [Work Diary](university/work-diary.md)
 
-## TODO \(Uni\) <a id="todo"></a>
-
-* [480](todo/480.md)
-* [420](todo/420.md)
-* [450](todo/450.md)
-
 ## shortcuts / syntax / setup <a id="setup"></a>
 
 * [Python](setup/python.md)
@@ -52,10 +46,17 @@
 
 * [Website redesign](garth.wales/website-redesign.md)
 
-## 450
+## Computer Graphics and Vision <a id="450"></a>
 
 * [Image Mosaicing](450/image-mosaicing.md)
 * [Stereo Vision](450/stereo-vision.md)
 * [Rendering](450/rendering.md)
 * [Exam papers](450/exam-papers.md)
+
+## Neural Networks <a id="420"></a>
+
+* [Introduction](420/introduction.md)
+* [Learning](420/learning.md)
+* [Learning theory](420/learning-theory.md)
+* [Stochastic Neural Networks](420/stochastic-neural-networks.md)
 
