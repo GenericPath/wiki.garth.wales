@@ -190,7 +190,8 @@ also this is useful but not used as well [https://arxiv.org/pdf/1611.10012.pdf](
 working on introduction of report, then will work on RL portion.
 
 ~~ Exam study and sitting ~~  
-  
+deal with this at a later point  
+[https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)  
   
 
 
