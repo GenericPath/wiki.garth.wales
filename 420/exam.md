@@ -16,9 +16,10 @@ Diagrams of architectures could be useful!
 
 3 questions from Ali
 
-* Seq-to-Seq?
-* Transformer / Attention..?
-* Word2Vec
+* Word2Vec vs onehot encoding? \(Word representation\)
+* Recurrent models of language
+* Sequence to sequence networks / attention
+* Transformer
 
 
 

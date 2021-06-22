@@ -23,7 +23,7 @@ Computation could be thought of as either
 
 * Neural plausibility
 * Parallel tasks inherent \(brain is slow, but does much more complex things in parallel compared to CPU\)
-* Learn by example! Not a hardcoded sequence
+* Learn by example! Not a hard coded sequence
 * Content addressable memory \(Memory distributed accross neurons\)
   * A symbolic system has to learn certain steps
 * Automatic generalisation \(learning more general patterns\)
