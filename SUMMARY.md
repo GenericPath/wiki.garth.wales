@@ -61,5 +61,6 @@
 * [Learning theory](420/learning-theory.md)
 * [Stochastic Neural Networks](420/stochastic-neural-networks.md)
 * [Interpretability](420/interpretability.md)
+* [Word Respresentation](420/word-respresentation.md)
 * [Exam](420/exam.md)
 
