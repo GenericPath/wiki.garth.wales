@@ -18,7 +18,19 @@ Artificial intelligence
 
 * Small changes in pixels.. or noise.. or specific designed patters can be detected with a high accuracy of being something a human wouldn't think they were.
 
+Network is trained with backpropagation by computing a gradient.
 
+* Tells us how to change the weights so as to minimise loss
+
+Can instead compute a gradient with respect to the input instead of weights.
+
+* Gradient descent to then modify the input to get the network to activate
+* Start with a random image, make adjustments until the class is outputted
+
+One adversarial example showing the network doesn't do the same thing as humans is applying texture from one image to the shape of another image. 
+
+A human would be confused, wdo we classify a cat made out of clocks as??  
+But the network instead will activate certain neurons \(that may be different per example\)
 
 ## How they 'think'
 
