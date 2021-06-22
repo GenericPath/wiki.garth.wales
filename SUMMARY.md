@@ -62,5 +62,7 @@
 * [Stochastic Neural Networks](420/stochastic-neural-networks.md)
 * [Interpretability](420/interpretability.md)
 * [Word Respresentation](420/word-respresentation.md)
+* [Language modelling with recurrent networks](420/language-modelling-with-recurrent-networks.md)
+* [Sequence-to-sequence networks](420/sequence-to-sequence-networks.md)
 * [Exam](420/exam.md)
 
