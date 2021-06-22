@@ -28,6 +28,7 @@
 * [Markov decision process](ml/markov-decision-process.md)
 * [Reinforcement learning](ml/reinforcement-learning.md)
 * [Deep Q Network](ml/deep-q-network.md)
+* [Modern hopfield network](ml/modern-hopfield-network.md)
 * [Object Detection](ml/object-detection.md)
 * [Face detection](ml/face-detection.md)
 * [Activation Functions](ml/activation-functions.md)
