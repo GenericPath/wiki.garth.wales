@@ -29,6 +29,7 @@ Hebbian rule
 Capacity
 
 * 0.138 U patterns for U neurons... \(correct patterns\)
+* Essentially because it there is too much similarity because so many patterns will start with 110 it is difficult to get the correct one
 
 Will learn spurious states
 
@@ -103,5 +104,7 @@ Can learn more patterns than there are neurons
 
 Kinda like a ReLU unit with some power ^ k
 
-* Ali covers these in better detail
+* Ali covers these in better detail in Ali's notes
+
+May be useful for reinforcement applications due to its high capacity!
 
