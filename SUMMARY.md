@@ -22,6 +22,7 @@
 * [LaTeX](setup/latex.md)
 * [Windows](setup/windows.md)
 * [Bash](setup/bash.md)
+* [Vim](setup/vim.md)
 
 ## Machine Learning <a id="ml"></a>
 
