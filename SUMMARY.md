@@ -15,6 +15,7 @@
 ## shortcuts / syntax / setup <a id="setup"></a>
 
 * [Python](setup/python.md)
+* [Screen](setup/screen.md)
 * [Markdown Syntax](setup/markdown.md)
 * [Git](setup/git.md)
 * [Dendron](setup/dendron.md)
