@@ -191,7 +191,13 @@ working on introduction of report, then will work on RL portion.
 
 ~~ Exam study and sitting ~~  
 deal with this at a later point  
-[https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)  
+[https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+
+~~~ time passes quickly ~~~
+
+**11/08/ - Wednesday**  
+[https://www.tensorflow.org/guide/keras/transfer\_learning\#fine-tuning](https://www.tensorflow.org/guide/keras/transfer_learning#fine-tuning)  
+interesting points on fine tuning  
   
 
 
