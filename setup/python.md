@@ -25,7 +25,11 @@ When installing in windows, ensure 'Add to PATH' is selected
 {% endhint %}
 
 {% hint style="info" %}
-conda create --name cosc420 python=3.8
+conda create --name cosc480 python=3.8
+{% endhint %}
+
+{% hint style="info" %}
+conda env remove --name cosc480
 {% endhint %}
 
 {% hint style="info" %}
