@@ -10,3 +10,8 @@ I'm endeavouring to document topics around my postgraduate studies, and possibly
 
 
 
+TODO:  
+Update main website with similar code to [https://smolcss.dev/](https://smolcss.dev/)
+
+
+
