@@ -45,6 +45,30 @@ A number of shortcuts, slowing expanding.
       <td style="text-align:left">esc</td>
       <td style="text-align:left">leave insert mode</td>
     </tr>
+    <tr>
+      <td style="text-align:left">:s/foo/bar/g</td>
+      <td style="text-align:left">replace foo to bar in current line</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">:%s/foo/bar/g</td>
+      <td style="text-align:left">replace foo to bar in all lines</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">:5,12s/foo/bar/g</td>
+      <td style="text-align:left">replace foo to bar from 5,12 inclusive</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&quot;/gc</td>
+      <td style="text-align:left">c flag to confirm first</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&quot;/gI</td>
+      <td style="text-align:left">I (capital i) flag to make it case sensitive</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&quot;/g</td>
+      <td style="text-align:left">g flag to make it global (not just first)</td>
+    </tr>
   </tbody>
 </table>
 
