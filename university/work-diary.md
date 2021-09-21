@@ -197,7 +197,11 @@ deal with this at a later point
 
 **11/08/ - Wednesday**  
 [https://www.tensorflow.org/guide/keras/transfer\_learning\#fine-tuning](https://www.tensorflow.org/guide/keras/transfer_learning#fine-tuning)  
-interesting points on fine tuning  
+interesting points on fine tuning
+
+21/09  
+[https://samiraabnar.github.io/articles/2019-03/capsule](https://samiraabnar.github.io/articles/2019-03/capsule)  
+contrast of capsules and transformers..  
   
 
 
