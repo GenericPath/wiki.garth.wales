@@ -206,7 +206,10 @@ contrast of capsules and transformers..
 these are interesting: jigsaw stuff \(see keep note from today also\)  
 [https://arxiv.org/pdf/1603.09246.pdf](https://arxiv.org/pdf/1603.09246.pdf)  
 [https://arxiv.org/pdf/1505.05192.pdf](https://arxiv.org/pdf/1505.05192.pdf)  
-is also vaguely mentioned in this, but ali mentioned it in AIGrp [https://arxiv.org/pdf/2002.05709.pdf](https://arxiv.org/pdf/2002.05709.pdf)  
+is also vaguely mentioned in this, but ali mentioned it in AIGrp [https://arxiv.org/pdf/2002.05709.pdf](https://arxiv.org/pdf/2002.05709.pdf)
+
+4/10  
+Use the full format of this for future object detectors.. [https://github.com/wk910930/diagnosing-object-detectors](https://github.com/wk910930/diagnosing-object-detectors)  
   
 
 
