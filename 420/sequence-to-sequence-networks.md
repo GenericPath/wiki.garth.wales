@@ -2,36 +2,36 @@
 
 A recurrent network is more accurate is D is large
 
-Backpropagating through each layer is the repeated multiplication of hidden layer weights for hidden layer \(as they all share the same weight\). 
+Backpropagating through each layer is the repeated multiplication of hidden layer weights for hidden layer (as they all share the same weight).&#x20;
 
 But if you multiple a matrix by itself multiple times the outcome depends on the eigenvalue:
 
-eigenvalue &gt; 1, gradient will explode \(fix it by clipping weights\)  
-eigenvalue = 1, gradient will propagate nicely  
-eigenvalue &lt; 1, gradient will vanish
+eigenvalue > 1, gradient will explode (fix it by clipping weights)\
+eigenvalue = 1, gradient will propagate nicely\
+eigenvalue < 1, gradient will vanish
 
 This was fixed with LSTM or GRU, and these networks were considered useful!
 
-Also these recurrent networks are biased towards the end of the sentence.. \(can also do the otherway around and combine to be less biased\)
+Also these recurrent networks are biased towards the end of the sentence.. (can also do the otherway around and combine to be less biased)
 
 ## Sequence-to-sequence
 
 Input / output pairs
 
-* Question / answer \(answering\)
-* Long text / summary \(summarising\)
-* English / french \(translation\)
+* Question / answer (answering)
+* Long text / summary (summarising)
+* English / french (translation)
 
 Use a pair of networks - encoder and decoder
 
-RNN learns a language model, give next word based on previous words  
+RNN learns a language model, give next word based on previous words\
 Seq2Seq learns a conditional model, give net word based on previous words + a prompt
 
-We want the best full sentence \(so use beamsearch to not do it greedily\)
+We want the best full sentence (so use beamsearch to not do it greedily)
 
 ## Attention
 
-Seq2Seq gets all the information from encoder network _at one point in time_  
+Seq2Seq gets all the information from encoder network _at one point in time_\
 
 
 For an attention network, the decoder gets
@@ -66,20 +66,18 @@ Transformer is
   * Can be fine-tuned for specific task
   * Trained on much larger datasets and computers than most people have access to
 
-**GPT-2** was trained on a massive corpus, with includes lots of prompts and their examples..
+**GPT-2 **was trained on a massive corpus, with includes lots of prompts and their examples..
 
-Dont specific input text and task, combine them!  
+Dont specific input text and task, combine them!\
 GPT-2 should therefore be able to perform many tasks without fine-tuning!
 
 * Zero-shot learning
   * But it does these tasks _averagely_ unless fine-tuned like other networks..
 
-**GPT-3** has a lot more parameters \(1.5 billion\) but basically the same as GPT-2
+**GPT-3** has a lot more parameters (1.5 billion) but basically the same as GPT-2
 
 * few shot learning
   * Give it a number of examples and it will pick up what you want and then be able to answer more like it!
-
-
 
 
 

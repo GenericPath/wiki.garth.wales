@@ -7,311 +7,50 @@ description: Collection of research for 'Face detection using reinforcement lear
 ## TODO
 
 * [ ] Add which dataset each paper uses
-* [ ] Add more description of important topics covered by some papers \(i.e. topics to then cite\)
-* [ ] We use a learning system prior to the RL, 'We don't want to stub our toe lots to learn vision' - Geoff Hinton \([https://www.youtube.com/watch?v=N0ER1MC9cqM](https://www.youtube.com/watch?v=N0ER1MC9cqM) ~28mins\)
+* [ ] Add more description of important topics covered by some papers (i.e. topics to then cite)
+* [ ] We use a learning system prior to the RL, 'We don't want to stub our toe lots to learn vision' - Geoff Hinton ([https://www.youtube.com/watch?v=N0ER1MC9cqM](https://www.youtube.com/watch?v=N0ER1MC9cqM) \~28mins)
 * [ ] [https://stats.stackexchange.com/questions/280179/why-is-resnet-faster-than-vgg/280338](https://stats.stackexchange.com/questions/280179/why-is-resnet-faster-than-vgg/280338)
 
 ## Research papers
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Title / Author / URL</th>
-      <th style="text-align:left">Summary</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Active Object Localization using Reinforcement</b>
-          <br />J. C. Caicedo.</p>
-        <p>
-          <br /><a href="https://ieeexplore.ieee.org/document/7410643">https://ieeexplore.ieee.org/document/7410643</a>
-        </p>
-      </td>
-      <td style="text-align:left">Object detection using a novel reinforcement approach. Uses a pretrained
-        CNN to extract features, and a reinforcement learning &apos;localisation
-        policy&apos; based on DeepQNetwork.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>You Only Look Once : Unified, Real-Time Object Detection</b>
-        </p>
-        <p>J. Redmon
-          <br />
-          <br /><a href="https://ieeexplore.ieee.org/document/7780460">https://ieeexplore.ieee.org/document/7780460</a>
-        </p>
-      </td>
-      <td style="text-align:left">State of the art object detection neural network. Regression to take input
-        image &#x2192; regression of coordinates. Only needs to take the input
-        in once, and confidence levels to determine which bounding boxes are good
-        ones.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>SkipNet: Learning Dynamic Routing in Convolutional Networks</b>
-        </p>
-        <p>X. Wang</p>
-        <p>
-          <br /><a href="https://arxiv.org/abs/1711.09485">https://arxiv.org/abs/1711.09485</a>
-        </p>
-      </td>
-      <td style="text-align:left">Shallower networks are sufficient for a lot of tasks, proposes a model
-        to automatically skip convolutional layers based on a per input basis.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Deep Sheep: kinship assignment in livestock from facial images</b>
-        </p>
-        <p>L. Szymanski</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/9290558">https://ieeexplore.ieee.org/document/9290558</a>
-        </p>
-      </td>
-      <td style="text-align:left">A look into the viability of using deep learning to assign kinship between
-        sheep faces.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>An Introduction to Deep</b>  <b>Reinforcement Learning</b>
-        </p>
-        <p>V. Fran&#xE7;ois-Lavet</p>
-        <p></p>
-        <p><a href="https://arxiv.org/abs/1811.12560">https://arxiv.org/abs/1811.12560</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>An in-depth look into how deep reinforcement learning.</p>
-        <p><em>TODO: note important topics covered</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Human-level control through deep reinforcement learning</b>
-        </p>
-        <p>V. Mnih</p>
-        <p></p>
-        <p><a href="https://www.nature.com/articles/nature14236">https://www.nature.com/articles/nature14236</a>
-        </p>
-      </td>
-      <td style="text-align:left">Deep Q Network paper, the famous 2015 Atari deepmind project.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Collaborative Deep Reinforcement Learning for Joint Object Search</b>
-        </p>
-        <p>X. Kong</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/8100231">https://ieeexplore.ieee.org/document/8100231</a>
-        </p>
-      </td>
-      <td style="text-align:left">Novel multi-agent deep Q-learning algorithm with joint exploitation sampling.
-        Essentially allows multiple agents to collaborate to end up with &apos;person
-        on a bicycle holding a cup&apos;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning</b>
-        </p>
-        <p>S. Yun</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/8099631">https://ieeexplore.ieee.org/document/8099631</a>
-        </p>
-      </td>
-      <td style="text-align:left">Light computation for tracking, as a reinforcement learning algorithm
-        learns sequential actions to move bounding box to track object</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Deep reinforcement learning based lane detection and localization</b>
-        </p>
-        <p>Z. Zhao</p>
-        <p></p>
-        <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833">https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833</a>
-        </p>
-      </td>
-      <td style="text-align:left">Deep reinforcement learning into cursory lane detection models for accurate
-        lane detection and localization. Uses CNN to find bounding boxes, and reinforcement
-        learning to use those boxes to create a good estimate of the curve of the
-        lane.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</b>
-        </p>
-        <p>S. Ren</p>
-        <p></p>
-        <p><a href="https://arxiv.org/abs/1506.01497">https://arxiv.org/abs/1506.01497</a>
-        </p>
-      </td>
-      <td style="text-align:left">Uses a Region Proposal Network to enable nearly cost free region proposals,
-        that the FAST R-CNN can then utilise. State of the art detection rates,
-        but achieves 5fps on GPU.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Multi-shot Pedestrian Re-identification via Sequential Decision Making</b>
-        </p>
-        <p>J. Zhang</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/8578807">https://ieeexplore.ieee.org/document/8578807</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>Pedestrian re-identification by using reinforcement learning. It can either
-          output result (same or different) or request another pair of images (delay
-          outcome till more certain). Achieves good tradeoff between speed and accuracy
-          by changing reward for unsure action.</p>
-        <p>(<em>Could be useful for sheep kinship verification?)</em>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>DEEP REINFORCEMENT LEARNING</b>
-        </p>
-        <p>Y. Li</p>
-        <p></p>
-        <p><a href="https://arxiv.org/abs/1810.06339">https://arxiv.org/abs/1810.06339</a>
-        </p>
-      </td>
-      <td style="text-align:left">Discusses deep reinforcement learning in an overview style.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>LocNet: Improving Localization Accuracy for Object Detection</b>
-        </p>
-        <p>S. Gidaris</p>
-        <p>
-          <br /><a href="https://ieeexplore.ieee.org/document/7780461/">https://ieeexplore.ieee.org/document/7780461/</a>
-        </p>
-      </td>
-      <td style="text-align:left">
-        <p>Novel method of using column and row estimates of how &apos;object&apos;
-          a given row/col looks. Creates two 1D curved regions that suggest a bounding
-          box.</p>
-        <p><a href="https://i.imgur.com/TxCetFs.png"><em>https://i.imgur.com/TxCetFs.png</em></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Attention-aware Deep Reinforcement Learning for Video Face Recognition</b>
-        </p>
-        <p>Y. Rao</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/8237686">https://ieeexplore.ieee.org/document/8237686</a>
-        </p>
-      </td>
-      <td style="text-align:left">Attention-aware deep reinforcement learning (ADRL) method for video face
-        recognition. Poses the problem as a Markov decision process. Information
-        from both the image space and the feature space are used.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Adaptive Object Detection Using Adjacency and Zoom Prediction</b>
-        </p>
-        <p>Y. Lu</p>
-        <p></p>
-        <p><a href="https://arxiv.org/abs/1512.07711">https://arxiv.org/abs/1512.07711</a>
-        </p>
-      </td>
-      <td style="text-align:left">Adjacency and Zoom Network to suggest regions to look closer in.
-        <br />
-        <br />&quot;directs computational resources to sub-regions likely to contain
-        objects&quot;</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Attention to Scale: Scale-aware Semantic Image Segmentation</b>
-        </p>
-        <p>LC. Chen</p>
-        <p></p>
-        <p><a href="https://ieeexplore.ieee.org/document/7780765">https://ieeexplore.ieee.org/document/7780765</a>
-        </p>
-      </td>
-      <td style="text-align:left">An attention mechanism that learns to softly weight the multi-scale features
-        at each pixel location.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>YOLO-face: a real-time face detector</b>
-        </p>
-        <p>W. Chen</p>
-        <p></p>
-        <p><a href="https://link.springer.com/article/10.1007/s00371-020-01831-7">https://link.springer.com/article/10.1007/s00371-020-01831-7</a>
-        </p>
-      </td>
-      <td style="text-align:left">A real time face detector based on YOLO. Provides better results than
-        YOLO v2, YOLO v3 or Faster R-CNN.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Fast face detection on mobile devices by leveraging global and local facial characteristics</b>
-        </p>
-        <p>H. Zhang</p>
-        <p></p>
-        <p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596518303989">https://www.sciencedirect.com/science/article/abs/pii/S0923596518303989</a>
-        </p>
-      </td>
-      <td style="text-align:left">Faster proposal generation model, therefore faster detection models. Uses
-        global and local face characteristics.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>A fast face detection method via convolutional neural network</b>
-        </p>
-        <p>G. Guo
-          <br />
-          <br /><a href="https://arxiv.org/abs/1803.10103">https://arxiv.org/abs/1803.10103</a>
-        </p>
-      </td>
-      <td style="text-align:left">Uses discriminative complete features (DCFs) to replace image pyramid
-        employed by standard CNN to improve efficiency for face detection.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Reinforcement Learning for Improving Object Detection</b>
-        </p>
-        <p>S. Nayak</p>
-        <p></p>
-        <p><a href="https://arxiv.org/pdf/2008.08005.pdf">https://arxiv.org/pdf/2008.08005.pdf</a>
-        </p>
-      </td>
-      <td style="text-align:left">Use RL to learn the preprocessing for images to improve object detection
-        rates. Standard networks are so nonlinear they respond differently to image
-        parameters like brightness, contrast, etc. Use RL to learn to fix this.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">
-        <p><b>Efficient Object Detection in Large Images using Deep Reinforcement Learning</b>
-        </p>
-        <p>B. Uzkent</p>
-        <p></p>
-        <p><a href="https://arxiv.org/pdf/1912.03966.pdf">https://arxiv.org/pdf/1912.03966.pdf</a>
-        </p>
-      </td>
-      <td style="text-align:left">From abstract: Proposes a reinforcement learning agent that adaptively
-        selects the spatial resolution of each image that is provided to the detector.</td>
-    </tr>
-  </tbody>
-</table>
+| Title / Author / URL                                                                                                                                                                                                                                                                                          | Summary                                                                                                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p><strong>Active Object Localization using Reinforcement</strong><br>J. C. Caicedo.</p><p><br><a href="https://ieeexplore.ieee.org/document/7410643">https://ieeexplore.ieee.org/document/7410643</a></p>                                                                                                    | Object detection using a novel reinforcement approach. Uses a pretrained CNN to extract features, and a reinforcement learning 'localisation policy' based on DeepQNetwork.                                                                                                                                                                        |
+| <p><strong>You Only Look Once : Unified, Real-Time Object Detection</strong></p><p>J. Redmon<br><br><a href="https://ieeexplore.ieee.org/document/7780460">https://ieeexplore.ieee.org/document/7780460</a></p>                                                                                               | State of the art object detection neural network. Regression to take input image → regression of coordinates. Only needs to take the input in once, and confidence levels to determine which bounding boxes are good ones.                                                                                                                         |
+| <p><strong>SkipNet: Learning Dynamic Routing in Convolutional Networks</strong></p><p>X. Wang</p><p><br><a href="https://arxiv.org/abs/1711.09485">https://arxiv.org/abs/1711.09485</a></p>                                                                                                                   | Shallower networks are sufficient for a lot of tasks, proposes a model to automatically skip convolutional layers based on a per input basis.                                                                                                                                                                                                      |
+| <p><strong>Deep Sheep: kinship assignment in livestock from facial images</strong></p><p>L. Szymanski</p><p></p><p><a href="https://ieeexplore.ieee.org/document/9290558">https://ieeexplore.ieee.org/document/9290558</a></p>                                                                                | A look into the viability of using deep learning to assign kinship between sheep faces.                                                                                                                                                                                                                                                            |
+| <p><strong>An Introduction to Deep</strong> <strong>Reinforcement Learning</strong></p><p>V. François-Lavet</p><p></p><p><a href="https://arxiv.org/abs/1811.12560">https://arxiv.org/abs/1811.12560</a></p>                                                                                                  | <p>An in-depth look into how deep reinforcement learning.</p><p><em>TODO: note important topics covered</em></p>                                                                                                                                                                                                                                   |
+| <p><strong>Human-level control through deep reinforcement learning</strong></p><p>V. Mnih</p><p></p><p><a href="https://www.nature.com/articles/nature14236">https://www.nature.com/articles/nature14236</a></p>                                                                                              | Deep Q Network paper, the famous 2015 Atari deepmind project.                                                                                                                                                                                                                                                                                      |
+| <p><strong>Collaborative Deep Reinforcement Learning for Joint Object Search</strong></p><p>X. Kong</p><p></p><p><a href="https://ieeexplore.ieee.org/document/8100231">https://ieeexplore.ieee.org/document/8100231</a></p>                                                                                  | Novel multi-agent deep Q-learning algorithm with joint exploitation sampling. Essentially allows multiple agents to collaborate to end up with 'person on a bicycle holding a cup'                                                                                                                                                                 |
+| <p><strong>Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning</strong></p><p>S. Yun</p><p></p><p><a href="https://ieeexplore.ieee.org/document/8099631">https://ieeexplore.ieee.org/document/8099631</a></p>                                                                       | Light computation for tracking, as a reinforcement learning algorithm learns sequential actions to move bounding box to track object                                                                                                                                                                                                               |
+| <p><strong>Deep reinforcement learning based lane detection and localization</strong></p><p>Z. Zhao</p><p></p><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833">https://www.sciencedirect.com/science/article/abs/pii/S0925231220310833</a></p>                            | Deep reinforcement learning into cursory lane detection models for accurate lane detection and localization. Uses CNN to find bounding boxes, and reinforcement learning to use those boxes to create a good estimate of the curve of the lane.                                                                                                    |
+| <p><strong>Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks</strong></p><p>S. Ren</p><p></p><p><a href="https://arxiv.org/abs/1506.01497">https://arxiv.org/abs/1506.01497</a></p>                                                                                              | Uses a Region Proposal Network to enable nearly cost free region proposals, that the FAST R-CNN can then utilise. State of the art detection rates, but achieves 5fps on GPU.                                                                                                                                                                      |
+| <p><strong>Multi-shot Pedestrian Re-identification via Sequential Decision Making</strong></p><p>J. Zhang</p><p></p><p><a href="https://ieeexplore.ieee.org/document/8578807">https://ieeexplore.ieee.org/document/8578807</a></p>                                                                            | <p>Pedestrian re-identification by using reinforcement learning. It can either output result (same or different) or request another pair of images (delay outcome till more certain). Achieves good tradeoff between speed and accuracy by changing reward for unsure action.</p><p>(<em>Could be useful for sheep kinship verification?)</em></p> |
+| <p><strong>DEEP REINFORCEMENT LEARNING</strong></p><p>Y. Li</p><p></p><p><a href="https://arxiv.org/abs/1810.06339">https://arxiv.org/abs/1810.06339</a></p>                                                                                                                                                  | Discusses deep reinforcement learning in an overview style.                                                                                                                                                                                                                                                                                        |
+| <p><strong>LocNet: Improving Localization Accuracy for Object Detection</strong></p><p>S. Gidaris</p><p><br><a href="https://ieeexplore.ieee.org/document/7780461/">https://ieeexplore.ieee.org/document/7780461/</a></p>                                                                                     | <p>Novel method of using column and row estimates of how 'object' a given row/col looks. Creates two 1D curved regions that suggest a bounding box.</p><p><a href="https://i.imgur.com/TxCetFs.png"><em>https://i.imgur.com/TxCetFs.png</em></a></p>                                                                                               |
+| <p><strong>Attention-aware Deep Reinforcement Learning for Video Face Recognition</strong></p><p>Y. Rao</p><p></p><p><a href="https://ieeexplore.ieee.org/document/8237686">https://ieeexplore.ieee.org/document/8237686</a></p>                                                                              | Attention-aware deep reinforcement learning (ADRL) method for video face recognition. Poses the problem as a Markov decision process. Information from both the image space and the feature space are used.                                                                                                                                        |
+| <p><strong>Adaptive Object Detection Using Adjacency and Zoom Prediction</strong></p><p>Y. Lu</p><p></p><p><a href="https://arxiv.org/abs/1512.07711">https://arxiv.org/abs/1512.07711</a></p>                                                                                                                | <p>Adjacency and Zoom Network to suggest regions to look closer in.<br><br>"directs computational resources to sub-regions likely to contain objects"</p>                                                                                                                                                                                          |
+| <p><strong>Attention to Scale: Scale-aware Semantic Image Segmentation</strong></p><p>LC. Chen</p><p></p><p><a href="https://ieeexplore.ieee.org/document/7780765">https://ieeexplore.ieee.org/document/7780765</a></p>                                                                                       | An attention mechanism that learns to softly weight the multi-scale features at each pixel location.                                                                                                                                                                                                                                               |
+| <p><strong>YOLO-face: a real-time face detector</strong></p><p>W. Chen</p><p></p><p><a href="https://link.springer.com/article/10.1007/s00371-020-01831-7">https://link.springer.com/article/10.1007/s00371-020-01831-7</a></p>                                                                               | A real time face detector based on YOLO. Provides better results than YOLO v2, YOLO v3 or Faster R-CNN.                                                                                                                                                                                                                                            |
+| <p><strong>Fast face detection on mobile devices by leveraging global and local facial characteristics</strong></p><p>H. Zhang</p><p></p><p><a href="https://www.sciencedirect.com/science/article/abs/pii/S0923596518303989">https://www.sciencedirect.com/science/article/abs/pii/S0923596518303989</a></p> | Faster proposal generation model, therefore faster detection models. Uses global and local face characteristics.                                                                                                                                                                                                                                   |
+| <p><strong>A fast face detection method via convolutional neural network</strong></p><p>G. Guo<br><br><a href="https://arxiv.org/abs/1803.10103">https://arxiv.org/abs/1803.10103</a></p>                                                                                                                     | Uses discriminative complete features (DCFs) to replace image pyramid employed by standard CNN to improve efficiency for face detection.                                                                                                                                                                                                           |
+| <p><strong>Reinforcement Learning for Improving Object Detection</strong></p><p>S. Nayak</p><p></p><p><a href="https://arxiv.org/pdf/2008.08005.pdf">https://arxiv.org/pdf/2008.08005.pdf</a></p>                                                                                                             | Use RL to learn the preprocessing for images to improve object detection rates. Standard networks are so nonlinear they respond differently to image parameters like brightness, contrast, etc. Use RL to learn to fix this.                                                                                                                       |
+| <p><strong>Efficient Object Detection in Large Images using Deep Reinforcement Learning</strong></p><p>B. Uzkent</p><p></p><p><a href="https://arxiv.org/pdf/1912.03966.pdf">https://arxiv.org/pdf/1912.03966.pdf</a></p>                                                                                     | From abstract: Proposes a reinforcement learning agent that adaptively selects the spatial resolution of each image that is provided to the detector.                                                                                                                                                                                              |
 
 ## Datasets
 
-| Name | Link |
-| :--- | :--- |
-| Pascal VOC 2007/2012 | [http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/) |
-| ImageNet |  |
-| CAS-PEAL Face Database |  |
-| WiderFACE |  |
-| LFW \(Labelled Faces in the Wild\) | [http://vis-www.cs.umass.edu/lfw/](http://vis-www.cs.umass.edu/lfw/) |
+| Name                             | Link                                                                               |
+| -------------------------------- | ---------------------------------------------------------------------------------- |
+| Pascal VOC 2007/2012             | [http://host.robots.ox.ac.uk/pascal/VOC/](http://host.robots.ox.ac.uk/pascal/VOC/) |
+| ImageNet                         |                                                                                    |
+| CAS-PEAL Face Database           |                                                                                    |
+| WiderFACE                        |                                                                                    |
+| LFW (Labelled Faces in the Wild) | [http://vis-www.cs.umass.edu/lfw/](http://vis-www.cs.umass.edu/lfw/)               |
 
 ## Websites and notes
 
-* [https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/](https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/) Explanation of YOLO vs SSD 
-* Need to make it work better as a single shot sorta problem... but still use reinforcement learning to see if it can improve the detection rates? 
+* [https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/](https://www.linkedin.com/pulse/yolo-really-better-than-ssd-chandrakala-busireddy/) Explanation of YOLO vs SSD&#x20;
+* Need to make it work better as a single shot sorta problem... but still use reinforcement learning to see if it can improve the detection rates?&#x20;
 * Future work: Use reinforcement learning to learn how the convolution step moves? Is it feasible
-* A good example of how to use tensorflow keras with keras-rl [https://soygema.github.io/starcraftII\_machine\_learning/\#5](https://soygema.github.io/starcraftII_machine_learning/#5)
-
+* A good example of how to use tensorflow keras with keras-rl\
+  [https://soygema.github.io/starcraftII\_machine\_learning/#5](https://soygema.github.io/starcraftII\_machine\_learning/#5)

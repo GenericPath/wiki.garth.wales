@@ -12,10 +12,10 @@
 * [Report](university/report.md)
 * [Work Diary](university/work-diary.md)
 
-## Deep Declarative Networks <a href="dnn" id="dnn"></a>
+## Deep Declarative Networks <a href="ddn" id="ddn"></a>
 
-* [Work Diary](dnn/work-diary.md)
-* [Deep Declarative Networks](dnn/deep-declarative-networks.md)
+* [Work Diary](ddn/work-diary.md)
+* [Deep Declarative Networks](ddn/deep-declarative-networks.md)
 
 ## shortcuts / syntax / setup <a href="setup" id="setup"></a>
 

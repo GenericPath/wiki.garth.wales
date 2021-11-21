@@ -3,7 +3,7 @@
 Before neural networks there were _n-grams_
 
 * Modelled frequency of word sequences from a corpus
-  * Struggled with low likelihood words \(sparsity problem\)
+  * Struggled with low likelihood words (sparsity problem)
     * Fixed slightly by smoothing and using backoff
       * e.g. add a small value to every count to avoid numerator of zero
       * e.g. 4-gram move to 5-gram
@@ -11,14 +11,14 @@ Before neural networks there were _n-grams_
 
 ## Recurrent network
 
-current -&gt; hidden -&gt; predicted word  
-                   ^ + previous step
+current -> hidden -> predicted word\
+&#x20;                  ^ + previous step
 
-Recurrent network learnt word embeddings in its hidden layer \(similar words / contexts predict similar next words!\)
+Recurrent network learnt word embeddings in its hidden layer (similar words / contexts predict similar next words!)
 
- But an Elman network only looks back one time step
+&#x20;But an Elman network only looks back one time step
 
-### Unfolding \(Backpropagation through time\)
+### Unfolding (Backpropagation through time)
 
 * Choose a depth _D_
 * Break corpus into sub-sequences of _D+1_
@@ -29,7 +29,6 @@ But as you train, the gradients get smaller as we propagate to earlier words mak
 ## Evaluate a language model
 
 {% hint style="info" %}
-**Perplexity**  
-Allows you to evalute a model.. maths goes here..
+**Perplexity**\
+****Allows you to evalute a model.. maths goes here..
 {% endhint %}
-

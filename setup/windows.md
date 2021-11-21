@@ -7,7 +7,7 @@ description: Not the transparent kind
 {% hint style="info" %}
 Windows cannot verify the servers identity popup:
 
-* Connection properties -&gt; Authentication -&gt; Settings -&gt; Uncheck Verify at the top
+* Connection properties -> Authentication -> Settings -> Uncheck Verify at the top
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,15 +18,15 @@ To change modified data/time on files
 * [ ] enter date
 * [ ] TIME {enter}
 * [ ] enter time
-* [ ] COPY /B &lt;filename&gt;+,,
+* [ ] COPY /B \<filename>+,,
 {% endhint %}
 
 {% hint style="info" %}
-If command prompt won't open \(just flashes briefly opening and closing\)  
-  
+If command prompt won't open (just flashes briefly opening and closing)\
+\
 PowerShell
 
-```text
+```
 echo off
 reg delete "HKCU\Console" /f
 reg delete "HKCU\Software\Microsoft\Command Processor" /v "AutoRun" /f
@@ -37,6 +37,4 @@ echo done
 
 This also solves git bash not opening, if git bash is using cmd prompt
 {% endhint %}
-
-
 
