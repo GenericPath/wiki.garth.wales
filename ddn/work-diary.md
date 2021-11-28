@@ -36,4 +36,6 @@ Going through codebase and pytorch
 
 Answer for what has been done before 43:15 https://www.youtube.com/watch?v=pRbxXlvj4SA\&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208\&index=7
 
+DDN works well as we dont need to unroll the whole function, and store all the intermediate steps. Implicit differentiation works well as we only need the ends? Also lets you try out different solvers, without implementing them in pytorch. Unrolling also may lead to more floating point errors, which an analytical solution will not need.
+
 Go through image segmentation techniques, see how it might work.
