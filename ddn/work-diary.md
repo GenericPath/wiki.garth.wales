@@ -26,5 +26,14 @@ Installing pytorch and testing basics of the ddn framework supplied by original 
 
 Going through ECCV2020 tutorial ([https://www.youtube.com/watch?v=fnJIj906qoA\&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208\&index=1](https://www.youtube.com/watch?v=fnJIj906qoA\&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208\&index=1)) and DDN workshop at CVPR 2020 ([https://www.youtube.com/playlist?list=PLD-7XrNHCcFJCxYrZQRYsTvv3mTogWiiI](https://www.youtube.com/playlist?list=PLD-7XrNHCcFJCxYrZQRYsTvv3mTogWiiI))
 
-#### 25/11
+#### 25/11 - 26
 
+Going through codebase and pytorch
+
+
+
+#### 29/11
+
+Answer for what has been done before 43:15 https://www.youtube.com/watch?v=pRbxXlvj4SA\&list=PLD-7XrNHCcFITANECta7DscRTC0gL2208\&index=7
+
+Go through image segmentation techniques, see how it might work.
