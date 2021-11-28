@@ -14,6 +14,7 @@
 
 ## Deep Declarative Networks <a href="ddn" id="ddn"></a>
 
+* [Potential avenues](ddn/potential-avenues.md)
 * [Work Diary](ddn/work-diary.md)
 * [Deep Declarative Networks](ddn/deep-declarative-networks.md)
 * [Image Segmentation](ddn/image-segmentation.md)
