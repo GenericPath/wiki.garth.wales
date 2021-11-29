@@ -39,3 +39,11 @@ Answer for what has been done before 43:15 https://www.youtube.com/watch?v=pRbxX
 DDN works well as we dont need to unroll the whole function, and store all the intermediate steps. Implicit differentiation works well as we only need the ends? Also lets you try out different solvers, without implementing them in pytorch. Unrolling also may lead to more floating point errors, which an analytical solution will not need.
 
 Go through image segmentation techniques, see how it might work.
+
+
+
+#### 30/11
+
+Learnt about image segmentation ([https://en.wikipedia.org/wiki/Graph\_cuts\_in\_computer\_vision](https://en.wikipedia.org/wiki/Graph\_cuts\_in\_computer\_vision), [https://en.wikipedia.org/wiki/Watershed\_(image\_processing)](https://en.wikipedia.org/wiki/Watershed\_\(image\_processing\)), [https://hal.archives-ouvertes.fr/hal-02063210v2/document](https://hal.archives-ouvertes.fr/hal-02063210v2/document))
+
+Neural network could learn the dissimalarity function? and include the K-means style approch as a declarative node) This could learn how to best distinguish unique segments, and then learn to output it.
