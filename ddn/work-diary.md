@@ -46,4 +46,17 @@ Go through image segmentation techniques, see how it might work.
 
 Learnt about image segmentation ([https://en.wikipedia.org/wiki/Graph\_cuts\_in\_computer\_vision](https://en.wikipedia.org/wiki/Graph\_cuts\_in\_computer\_vision), [https://en.wikipedia.org/wiki/Watershed\_(image\_processing)](https://en.wikipedia.org/wiki/Watershed\_\(image\_processing\)), [https://hal.archives-ouvertes.fr/hal-02063210v2/document](https://hal.archives-ouvertes.fr/hal-02063210v2/document))
 
-Neural network could learn the dissimalarity function? and include the K-means style approch as a declarative node) This could learn how to best distinguish unique segments, and then learn to output it.
+Neural network could learn the (dis)similarity function? and include the K-means style approach as a declarative node) This could learn how to best distinguish unique segments, and then learn to output it.
+
+
+
+Meeting: Essentially the above style of approach.
+
+Image -> dissimilarity neural network -> graph cut (declarative node) -> oversegmented graph? -> labelling / clustering.
+
+Start with output of pure labelling. And utilise a multi-stage network as a baseline. Compare the full, multi-stage and fixed dissimilarity approaches (e.g. typical approaches for intensity, colour etc)
+
+
+
+Also determine stability and how RANSAC works in a system.
+
