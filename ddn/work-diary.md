@@ -60,3 +60,12 @@ Start with output of pure labelling. And utilise a multi-stage network as a base
 
 Also determine stability and how RANSAC works in a system.
 
+
+
+\----
+
+#### 6/12
+
+Possibily create something for explicitly testing stability of a network
+
+Use small images so memory constraints aren't bad.. just want to test it works really.
