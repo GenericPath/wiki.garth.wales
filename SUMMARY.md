@@ -21,6 +21,7 @@
 
 ## shortcuts / syntax / setup <a href="#setup" id="setup"></a>
 
+* [Jupyter](setup/jupyter.md)
 * [SSH](setup/ssh.md)
 * [Python](setup/python.md)
 * [CUDA](setup/cuda.md)
