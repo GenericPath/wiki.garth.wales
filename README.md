@@ -10,8 +10,8 @@ I'm endeavouring to document topics around my postgraduate studies, and possibly
 
 
 
-TODO:  
-Update main website with similar code to [https://smolcss.dev/](https://smolcss.dev/)
+TODO:\
+Update main website with similar code to [https://smolcss.dev/](https://smolcss.dev)
 
-
+and something similar to [http://bamos.github.io/](http://bamos.github.io) ?
 
