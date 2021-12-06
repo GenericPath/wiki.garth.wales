@@ -12,15 +12,16 @@
 * [Report](university/report.md)
 * [Work Diary](university/work-diary.md)
 
-## Deep Declarative Networks <a href="ddn" id="ddn"></a>
+## Deep Declarative Networks <a href="#ddn" id="ddn"></a>
 
 * [Potential avenues](ddn/potential-avenues.md)
 * [Work Diary](ddn/work-diary.md)
 * [Deep Declarative Networks](ddn/deep-declarative-networks.md)
 * [Image Segmentation](ddn/image-segmentation.md)
 
-## shortcuts / syntax / setup <a href="setup" id="setup"></a>
+## shortcuts / syntax / setup <a href="#setup" id="setup"></a>
 
+* [SSH](setup/ssh.md)
 * [Python](setup/python.md)
 * [CUDA](setup/cuda.md)
 * [Screen](setup/screen.md)
@@ -33,7 +34,7 @@
 * [Bash](setup/bash.md)
 * [Vim](setup/vim.md)
 
-## Machine Learning <a href="ml" id="ml"></a>
+## Machine Learning <a href="#ml" id="ml"></a>
 
 * [Markov decision process](ml/markov-decision-process.md)
 * [Reinforcement learning](ml/reinforcement-learning.md)
@@ -47,7 +48,7 @@
 * [Hyperparameters](ml/hyperparameters.md)
 * [Interpretability](ml/interpretability.md)
 
-## Reinforcement learning <a href="rl" id="rl"></a>
+## Reinforcement learning <a href="#rl" id="rl"></a>
 
 * [Memory](rl/memory.md)
 * [Exploration techniques](rl/exploration-techniques.md)
@@ -57,14 +58,14 @@
 
 * [Website redesign](garth.wales/website-redesign.md)
 
-## Computer Graphics and Vision <a href="450" id="450"></a>
+## Computer Graphics and Vision <a href="#450" id="450"></a>
 
 * [Image Mosaicing](450/image-mosaicing.md)
 * [Stereo Vision](450/stereo-vision.md)
 * [Rendering](450/rendering.md)
 * [Exam papers](450/exam-papers.md)
 
-## Neural Networks <a href="420" id="420"></a>
+## Neural Networks <a href="#420" id="420"></a>
 
 * [Introduction](420/introduction.md)
 * [Learning](420/learning.md)
