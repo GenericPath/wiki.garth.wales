@@ -69,3 +69,14 @@ Also determine stability and how RANSAC works in a system.
 Possibily create something for explicitly testing stability of a network
 
 Use small images so memory constraints aren't bad.. just want to test it works really.
+
+
+
+#### 7/12
+
+Papers for pixel wise image segmentation in machine learning
+
+[https://arxiv.org/pdf/1901.11390.pdf](https://arxiv.org/pdf/1901.11390.pdf)\
+[https://arxiv.org/pdf/1706.05587.pdf](https://arxiv.org/pdf/1706.05587.pdf)\
+[https://arxiv.org/pdf/1608.06993.pdf](https://arxiv.org/pdf/1608.06993.pdf)\
+[https://arxiv.org/pdf/1505.04597.pdf](https://arxiv.org/pdf/1505.04597.pdf)
