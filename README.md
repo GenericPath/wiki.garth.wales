@@ -15,3 +15,7 @@ Update main website with similar code to [https://smolcss.dev/](https://smolcss.
 
 and something similar to [http://bamos.github.io/](http://bamos.github.io) ?
 
+
+
+also for any future paper writing: [https://www.mathcha.io](https://www.mathcha.io) to utilise drawing into TikZ for LaTeX
+
