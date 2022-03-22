@@ -79,4 +79,9 @@ Papers for pixel wise image segmentation in machine learning
 [https://arxiv.org/pdf/1901.11390.pdf](https://arxiv.org/pdf/1901.11390.pdf)\
 [https://arxiv.org/pdf/1706.05587.pdf](https://arxiv.org/pdf/1706.05587.pdf)\
 [https://arxiv.org/pdf/1608.06993.pdf](https://arxiv.org/pdf/1608.06993.pdf)\
-[https://arxiv.org/pdf/1505.04597.pdf](https://arxiv.org/pdf/1505.04597.pdf)
+[https://arxiv.org/pdf/1505.04597.pdf](https://arxiv.org/pdf/1505.04597.pdf)\
+\
+23/03\
+When talking about how argmin isn't differentiable (as it isn't continuous inherently by nature)\
+[https://homes.cs.washington.edu/\~hapeng/paper/peng2018backprop.pdf](https://homes.cs.washington.edu/\~hapeng/paper/peng2018backprop.pdf)\
+[https://www.cs.ubc.ca/\~schmidtm/Documents/2016\_540\_Argmax.pdf](https://www.cs.ubc.ca/\~schmidtm/Documents/2016\_540\_Argmax.pdf)
